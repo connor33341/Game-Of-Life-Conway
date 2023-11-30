@@ -1,0 +1,8 @@
+{
+    "cuda-enabled":false,
+    "resX":2400,
+    "resY":600,
+    "cellScale":10,
+    "size":10,
+    "delay":0
+}
