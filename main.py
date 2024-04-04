@@ -1,7 +1,10 @@
 import time
 import pygame
-import numpy
-import cupy
+import 
+try:
+    import cupy
+except (Exception) as E:
+    pass
 from colors import *
 from jsonReader import JsonReader
 import time
