@@ -1,5 +1,6 @@
 import time
 import pygame
+import numpy
 try:
     import cupy
 except (Exception) as E:
